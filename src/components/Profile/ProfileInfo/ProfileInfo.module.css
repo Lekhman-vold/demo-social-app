@@ -1,0 +1,18 @@
+.descriptionBlock {
+    display: grid;
+    grid-template-columns: 5fr 10fr  ;
+    padding: 10px;
+    background-image: url(https://getdrawings.com/free-icon/world-icon-64.png)
+}
+
+.descriptionBlock img {
+    border-radius: 40px;
+}
+
+.textBold{
+    font-weight: bold;
+}
+
+.contact {
+    padding-left: 10px;
+}

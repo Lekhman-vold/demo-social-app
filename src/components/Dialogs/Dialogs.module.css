@@ -1,0 +1,41 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    background-image: url(https://getdrawings.com/free-icon/world-icon-64.png);
+    height: auto;
+}
+
+.dialogsItems  {
+    padding: 20px;
+}
+
+.messages {
+    padding: 15px;
+    margin: 20px 10px 19px 10px;
+}
+
+.dialog a{
+    color: white;
+    text-decoration: none;
+}
+
+.dialog a.activeLink {
+    color: #4267B2;
+}
+
+.dialog {
+    color: white;
+    border-style: inset;
+    border-radius: 10px 10px 20px;
+    background-color: darkgray;
+}
+
+.dialogs img {
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+
+
+
