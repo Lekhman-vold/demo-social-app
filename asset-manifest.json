@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Lekhman-vold/demo-social-app/static/css/main.6623ba35.chunk.css",
+    "main.js": "/Lekhman-vold/demo-social-app/static/js/main.1c9a7ee7.chunk.js",
+    "main.js.map": "/Lekhman-vold/demo-social-app/static/js/main.1c9a7ee7.chunk.js.map",
+    "runtime-main.js": "/Lekhman-vold/demo-social-app/static/js/runtime-main.dad64312.js",
+    "runtime-main.js.map": "/Lekhman-vold/demo-social-app/static/js/runtime-main.dad64312.js.map",
+    "static/js/2.66209f6d.chunk.js": "/Lekhman-vold/demo-social-app/static/js/2.66209f6d.chunk.js",
+    "static/js/2.66209f6d.chunk.js.map": "/Lekhman-vold/demo-social-app/static/js/2.66209f6d.chunk.js.map",
+    "static/css/3.8bf98a2b.chunk.css": "/Lekhman-vold/demo-social-app/static/css/3.8bf98a2b.chunk.css",
+    "static/js/3.2817c612.chunk.js": "/Lekhman-vold/demo-social-app/static/js/3.2817c612.chunk.js",
+    "static/js/3.2817c612.chunk.js.map": "/Lekhman-vold/demo-social-app/static/js/3.2817c612.chunk.js.map",
+    "static/css/4.9463e488.chunk.css": "/Lekhman-vold/demo-social-app/static/css/4.9463e488.chunk.css",
+    "static/js/4.91148220.chunk.js": "/Lekhman-vold/demo-social-app/static/js/4.91148220.chunk.js",
+    "static/js/4.91148220.chunk.js.map": "/Lekhman-vold/demo-social-app/static/js/4.91148220.chunk.js.map",
+    "index.html": "/Lekhman-vold/demo-social-app/index.html",
+    "precache-manifest.b1cd94de5b3e581f9a99f9f51d05cc37.js": "/Lekhman-vold/demo-social-app/precache-manifest.b1cd94de5b3e581f9a99f9f51d05cc37.js",
+    "service-worker.js": "/Lekhman-vold/demo-social-app/service-worker.js",
+    "static/css/3.8bf98a2b.chunk.css.map": "/Lekhman-vold/demo-social-app/static/css/3.8bf98a2b.chunk.css.map",
+    "static/css/4.9463e488.chunk.css.map": "/Lekhman-vold/demo-social-app/static/css/4.9463e488.chunk.css.map",
+    "static/css/main.6623ba35.chunk.css.map": "/Lekhman-vold/demo-social-app/static/css/main.6623ba35.chunk.css.map",
+    "static/js/2.66209f6d.chunk.js.LICENSE.txt": "/Lekhman-vold/demo-social-app/static/js/2.66209f6d.chunk.js.LICENSE.txt",
+    "static/media/Us.jpg": "/Lekhman-vold/demo-social-app/static/media/Us.7d43e5f1.jpg",
+    "static/media/User.svg": "/Lekhman-vold/demo-social-app/static/media/User.987d4a2e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dad64312.js",
+    "static/js/2.66209f6d.chunk.js",
+    "static/css/main.6623ba35.chunk.css",
+    "static/js/main.1c9a7ee7.chunk.js"
+  ]
+}
